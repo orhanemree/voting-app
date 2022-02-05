@@ -9,4 +9,4 @@ Create votings, share with your friends and see results.
 * Firebase
 
 ## 📃 License
-* Voting App licensen under the [MIT License](https://github.com/orhanemree/voting-app/blob/master/LICENSE). 
+* Voting App licensed under the [MIT License](https://github.com/orhanemree/voting-app/blob/master/LICENSE). 
