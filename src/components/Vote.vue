@@ -23,9 +23,9 @@
                 </li>
             </ul>
         </div>
-        <div v-else class="bg-green-100 min-h-[calc(100vh-48px)] flex items-center justify-center flex-col gap-10">
-            <div class="text-4xl text-green-800 font-bold">404 Voting Not Found ;(</div>
-            <div class="text-lg">You can return <a href="/" class="text-green-800 underline transition hover:text-green-500">Home</a> and create your own voting.</div>
+        <div v-else class="bg-green-100 min-h-[calc(100vh-48px)] flex items-center justify-center flex-col gap-10 p-8">
+            <div class="text-4xl text-green-800 font-bold text-center">404 Voting Not Found ;(</div>
+            <div class="text-lg text-center">You can return <a href="/" class="text-green-800 underline transition hover:text-green-500">Home</a> and create your own voting.</div>
         </div>
         <Footer />
     </div>
